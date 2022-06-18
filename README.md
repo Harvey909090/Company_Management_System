@@ -1,6 +1,6 @@
 # SAFARICOM DEPARTMENT MANAGEMENT SYSTEM
 
-    A project by GEORGE JAVA
+    A project by William JAVA
 
 ### Instructions for creating the schema and tables required to run the application.
 **For creating the schema and tables in MYSQL:**
